@@ -2,7 +2,7 @@
     padding: 20px;
 }
 div{
-    background-color:aquamarine;
+    background-color:rgb(100, 170, 218);
     text-align: center;
 }
 
@@ -17,9 +17,9 @@ div{
 @media (max-width: 575px){
     #fotodeperfil{
         position: absolute;
-        width: 30%;
-        left: 35%;
-        top: 366px;
+         width: 30%;
+         left: 36%;
+         top: 633px;
     }
 }
 
