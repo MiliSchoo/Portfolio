@@ -1,9 +1,10 @@
 .row{
-    background-color: rgb(100, 170, 218);
+    background-color: rgb(73, 54, 42);
     padding: 15px;
+
 }
 footer{
-    color:darkslategrey;
+    color:rgb(255, 255, 255);
     font-size: 14px;
     display: flex;
     flex-direction: column;

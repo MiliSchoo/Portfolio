@@ -2,24 +2,22 @@
     padding: 20px;
 }
 div{
-    background-color:rgb(100, 170, 218);
+    background-color:rgb(73, 54, 42);
     text-align: center;
 }
 
-@media (min-width: 576px){
+@media (min-width: 575px){
     #fotodeperfil{
-        position: absolute;
-        width: 8%;
-        left: 6%;
+        position: static;
     }
 }
 
 @media (max-width: 575px){
     #fotodeperfil{
-        position: absolute;
-         width: 30%;
-         left: 36%;
-         top: 633px;
+    position: relative;
+    width: 50%;
+    height: 100%;
+    top: 35%;
     }
 }
 
